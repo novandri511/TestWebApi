@@ -10,6 +10,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
+using Coba.Middleware;
 
 namespace web_test_api
 {
@@ -36,7 +37,22 @@ namespace web_test_api
                 app.UseDeveloperExceptionPage();
             }
 
-            app.UseHttpsRedirection();
+            // app.UseHttpsRedirection();
+
+            // app.Use(async (context, next) =>
+            // {
+            //     if(context.Request.Headers["Authorization"] == "hello")
+            //     {
+            //         await next();
+            //         return;
+            //     }
+            //    var text ="Not Authorized";
+
+            //    var data = System.Text.Encoding.UTF8.GetBytes(text);
+            //    await context.Response.Body.WriteAsync(data, 0, data.Length);
+                
+            // });
+            app.UserCustomAuthMiddleware();
 
             app.UseRouting();
 
