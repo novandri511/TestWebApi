@@ -16,3 +16,21 @@ C:\Users\User\Documents\Coba WebApi\web-test-api\obj\Debug\netcoreapp3.1\web-tes
 C:\Users\User\Documents\Coba WebApi\web-test-api\obj\Debug\netcoreapp3.1\web-test-api.RazorTargetAssemblyInfo.cache
 C:\Users\User\Documents\Coba WebApi\web-test-api\obj\Debug\netcoreapp3.1\web-test-api.dll
 C:\Users\User\Documents\Coba WebApi\web-test-api\obj\Debug\netcoreapp3.1\web-test-api.pdb
+C:\Users\User\Documents\cobaWebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\Documents\cobaWebApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\Documents\cobaWebApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\User\Documents\cobaWebApi\bin\Debug\netcoreapp3.1\web-test-api.exe
+C:\Users\User\Documents\cobaWebApi\bin\Debug\netcoreapp3.1\web-test-api.deps.json
+C:\Users\User\Documents\cobaWebApi\bin\Debug\netcoreapp3.1\web-test-api.runtimeconfig.json
+C:\Users\User\Documents\cobaWebApi\bin\Debug\netcoreapp3.1\web-test-api.runtimeconfig.dev.json
+C:\Users\User\Documents\cobaWebApi\bin\Debug\netcoreapp3.1\web-test-api.dll
+C:\Users\User\Documents\cobaWebApi\bin\Debug\netcoreapp3.1\web-test-api.pdb
+C:\Users\User\Documents\cobaWebApi\obj\Debug\netcoreapp3.1\web-test-api.csprojAssemblyReference.cache
+C:\Users\User\Documents\cobaWebApi\obj\Debug\netcoreapp3.1\staticwebassets\web-test-api.StaticWebAssets.Manifest.cache
+C:\Users\User\Documents\cobaWebApi\obj\Debug\netcoreapp3.1\staticwebassets\web-test-api.StaticWebAssets.xml
+C:\Users\User\Documents\cobaWebApi\obj\Debug\netcoreapp3.1\web-test-api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Documents\cobaWebApi\obj\Debug\netcoreapp3.1\web-test-api.AssemblyInfoInputs.cache
+C:\Users\User\Documents\cobaWebApi\obj\Debug\netcoreapp3.1\web-test-api.AssemblyInfo.cs
+C:\Users\User\Documents\cobaWebApi\obj\Debug\netcoreapp3.1\web-test-api.RazorTargetAssemblyInfo.cache
+C:\Users\User\Documents\cobaWebApi\obj\Debug\netcoreapp3.1\web-test-api.dll
+C:\Users\User\Documents\cobaWebApi\obj\Debug\netcoreapp3.1\web-test-api.pdb

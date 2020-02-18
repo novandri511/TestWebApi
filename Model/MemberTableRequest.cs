@@ -1,6 +1,6 @@
-namespace membertabel.Model
+namespace membertable.Model
 {
-public class TableRequest
+public class MemberTable
 {
     public int Id {get; set;}
     public string Username {get; set;}
@@ -10,7 +10,7 @@ public class TableRequest
     public string Popularity {get; set;}
 }
 
-public class MemberTabel : TableRequest
+public class MemberTablenya : MemberTable
 {
     public int Id {get; set;}
     public string Username {get; set;}

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Documents\\Coba WebApi\\web-test-api\\web-test-api.csproj": {}
+    "C:\\Users\\User\\Documents\\cobaWebApi\\web-test-api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Documents\\Coba WebApi\\web-test-api\\web-test-api.csproj": {
+    "C:\\Users\\User\\Documents\\cobaWebApi\\web-test-api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\Coba WebApi\\web-test-api\\web-test-api.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\cobaWebApi\\web-test-api.csproj",
         "projectName": "web-test-api",
-        "projectPath": "C:\\Users\\User\\Documents\\Coba WebApi\\web-test-api\\web-test-api.csproj",
+        "projectPath": "C:\\Users\\User\\Documents\\cobaWebApi\\web-test-api.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Documents\\Coba WebApi\\web-test-api\\obj\\",
+        "outputPath": "C:\\Users\\User\\Documents\\cobaWebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
